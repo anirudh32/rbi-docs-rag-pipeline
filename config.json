@@ -1,0 +1,12 @@
+{
+  "documents": [
+    {
+      "id": "rbi_governance_2025",
+      "title": "RBI Commercial Banks Governance Directions, 2025",
+      "pdf_path": "data/raw/rbi/commercial_banks/rbi_governance.pdf",
+      "annex_start_page": 46,
+      "regulator": "RBI",
+      "jurisdiction": "IN"
+    }
+  ]
+}
